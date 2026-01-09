@@ -1,4 +1,4 @@
-# API Fundamentals and Design Labs
+# API Fundamentals and Design Labs 
 
 Practice core API concepts and design principles in three small Jupyter notebooks.
 
